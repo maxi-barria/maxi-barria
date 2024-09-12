@@ -3,7 +3,7 @@
 
 
 
-<p><img align="right" src="https://github.com/maxi-barria/maxi-barria/blob/main/honey.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/maxi-barria/maxi-barria/blob/main/honey.gif" alt="honey" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
